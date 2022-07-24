@@ -25,7 +25,7 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 - I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **2 hours** to complete this project.
-- As I have done my previous 4 assignments but it took me more time than previous as I have to reseach about `transform: rotate(180deg);` property.
+- As I have done my previous 4 assignments but it took me more time than previous as I have to research about `transform: rotate(180deg);` property.
 
 ## 📌 What I Learn
 
