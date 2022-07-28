@@ -1,10 +1,10 @@
-## ⭐ HTML CSS Template Project 05 ⭐
+## ⭐ Cypto Landing Page Project 05 ⭐
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/html-css-live-class-project-05/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/crypto-landing-page/">**Visit Now** 🚀</a>
 
 <br>
 
